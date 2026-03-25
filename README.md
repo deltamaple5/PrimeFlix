@@ -47,6 +47,7 @@ cd nome-do-repositorio
 
 ### 3. Instale as dependências:
 ```bash
+npm install
 npm install react-toastify
 npm install react-router-dom
 # ou
